@@ -1,0 +1,2 @@
+Ajoutez 'musique.mp3' (ex: Darkness is Coming - Kevin MacLeod, CC BY 3.0) à côté de index.html.
+La musique démarre sur 'Lancez-vous', boucle, et continue pendant tout le flux (intro + découverte du rôle).
